@@ -1,0 +1,898 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0127628,
+               "lng" : 20.9117133
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0140433802915,
+                  "lng" : 20.9131768802915
+               },
+               "southwest" : {
+                  "lat" : 44.0113454197085,
+                  "lng" : 20.9104789197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Chef no.1",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2048,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118269915288076023899\"\u003eDragana S\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nEyiqzdS6NlYOEGg0dipSe5hNNE_Sg6JS6ol-CoqI24Ayt5eum62YS_XgDMB179q0HSqKDAyclWiM_O2bWWTwm1xajjprvwvb7XBl7Y7sSSvn5tn2clhwNwHbsQ3HCsfhG23xxL37fO3_9rLzLTmW_XAllmFfzhoDLH3oC7aNX8dXm",
+               "width" : 1598
+            }
+         ],
+         "place_id" : "ChIJw_dJ5BkhV0cRPm1TSI8oH-c",
+         "plus_code" : {
+            "compound_code" : "2W76+4M Kragujevac, Serbia",
+            "global_code" : "8GP22W76+4M"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJw_dJ5BkhV0cRPm1TSI8oH-c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20,
+         "vicinity" : "8, Kneza Milo\u0161a 34000, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0130565,
+               "lng" : 20.910632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0144231302915,
+                  "lng" : 20.9119994302915
+               },
+               "southwest" : {
+                  "lat" : 44.01172516970851,
+                  "lng" : 20.9093014697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Gyros Chef",
+         "place_id" : "ChIJwcaXVLIhV0cRpvHiSzgCxfw",
+         "plus_code" : {
+            "compound_code" : "2W76+67 Kragujevac, Serbia",
+            "global_code" : "8GP22W76+67"
+         },
+         "reference" : "ChIJwcaXVLIhV0cRpvHiSzgCxfw",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Kralja Aleksandra I Kara\u0111or\u0111evic\u0301a, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.01261340000001,
+               "lng" : 20.9120976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0138796802915,
+                  "lng" : 20.9133497302915
+               },
+               "southwest" : {
+                  "lat" : 44.01118171970851,
+                  "lng" : 20.9106517697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Franz",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4624,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111509235216096018070\"\u003eJelena Simic\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nx6wX0EYF3TAE0f258lSlqxxfuBWmuKgKLqCt7vojW0qaUADYdkqFU7X5fRFD2a1apziRkBSGZGbTXmgrkVYntJ6OIPKsh4Y1miUZqoQlssbN7c3RFDQAlQOVQ-7mvvwHPAl06bADjLIc80RcQvDOyen1xV2cyrMxj8LZbikOeIHlB",
+               "width" : 2084
+            }
+         ],
+         "place_id" : "ChIJcXlRrpEhV0cRixGnecb7m04",
+         "plus_code" : {
+            "compound_code" : "2W76+2R Kragujevac, Serbia",
+            "global_code" : "8GP22W76+2R"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJcXlRrpEhV0cRixGnecb7m04",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6,
+         "vicinity" : "Kralja Aleksandra I Kara\u0111or\u0111evic\u0301a 102, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.01076739999999,
+               "lng" : 20.9131086
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0121144302915,
+                  "lng" : 20.9145014302915
+               },
+               "southwest" : {
+                  "lat" : 44.0094164697085,
+                  "lng" : 20.9118034697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Domaca Kuhinja",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ2Q_g3tsgV0cRHR9EdC4giDg",
+         "plus_code" : {
+            "compound_code" : "2W67+86 Kragujevac, Serbia",
+            "global_code" : "8GP22W67+86"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ2Q_g3tsgV0cRHR9EdC4giDg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4,
+         "vicinity" : "9 CRVENOG BARJAKA, 34000, Kragujevac, Sumadijski county"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0105908,
+               "lng" : 20.9131536
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01194048029149,
+                  "lng" : 20.9145104302915
+               },
+               "southwest" : {
+                  "lat" : 44.00924251970849,
+                  "lng" : 20.9118124697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restoran \u0160umadinac",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115575486674341818886\"\u003eIvan Markovic\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0k3dDYHIgpCFCGUhd7M3lyUIqmWPHQVG7apvLn1nqs9SQt9dwfQdwslJ689YzNUiK0h9xMVxVuEcxTv2Oyz4yCd_AyLtadCLpxNJ0nPvNkIfTdg1CNDqy4Rb5ZJUhMZqkZr73LIEZDRoDTGM0fJ_ovrzB1NXkP-_eVhrELn6gM4fFii",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJcbDhuyEhV0cRCKybR6zUiRg",
+         "plus_code" : {
+            "compound_code" : "2W67+67 Kragujevac, Serbia",
+            "global_code" : "8GP22W67+67"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJcbDhuyEhV0cRCKybR6zUiRg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33,
+         "vicinity" : "Crvenog Barjaka 9, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0132335,
+               "lng" : 20.91062760000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0145489802915,
+                  "lng" : 20.9119406802915
+               },
+               "southwest" : {
+                  "lat" : 44.0118510197085,
+                  "lng" : 20.9092427197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "FOOD BAR",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJf65z7MMhV0cRVOzyChz53Xo",
+         "plus_code" : {
+            "compound_code" : "2W76+77 Kragujevac, Serbia",
+            "global_code" : "8GP22W76+77"
+         },
+         "reference" : "ChIJf65z7MMhV0cRVOzyChz53Xo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Kralja Aleksandra I Kara\u0111or\u0111evic\u0301a 118a, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0127133,
+               "lng" : 20.9122941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0141068802915,
+                  "lng" : 20.9135659302915
+               },
+               "southwest" : {
+                  "lat" : 44.0114089197085,
+                  "lng" : 20.9108679697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Mustang Express",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1079,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108416686602695493870\"\u003eMustang Express\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0mOE3wa_vlVLxjh04621AffSAbi1pwramYbSTdRjroxXZBafQ3N3BVDkKQAzmQTwaGLtjCmU0Q7fA46t84i9Psl_Z430ZnMJERXP40KmnoZIRgHycl0-NiFB8UifVEkc9hCuERtzfrWtMuz5mH1R-N-gAnmKazB_wICcl2bwH9qUT1E",
+               "width" : 1079
+            }
+         ],
+         "place_id" : "ChIJi61QCM8hV0cRXKDc6zym2F0",
+         "plus_code" : {
+            "compound_code" : "2W76+3W Kragujevac, Serbia",
+            "global_code" : "8GP22W76+3W"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJi61QCM8hV0cRXKDc6zym2F0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Kneza Milo\u0161a 3, Kragujevac"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0127133,
+               "lng" : 20.9122941
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0141068802915,
+                  "lng" : 20.9135659302915
+               },
+               "southwest" : {
+                  "lat" : 44.0114089197085,
+                  "lng" : 20.9108679697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Pm",
+         "permanently_closed" : true,
+         "place_id" : "ChIJdeId1PMhV0cRyn7uV7eO_nc",
+         "plus_code" : {
+            "compound_code" : "2W76+3W Kragujevac, Serbia",
+            "global_code" : "8GP22W76+3W"
+         },
+         "reference" : "ChIJdeId1PMhV0cRyn7uV7eO_nc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "Kneza Milo\u0161a 3, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0105873,
+               "lng" : 20.9132538
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0119359802915,
+                  "lng" : 20.9145994302915
+               },
+               "southwest" : {
+                  "lat" : 44.0092380197085,
+                  "lng" : 20.9119014697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Ribarnica i posna hrana Pirana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106447319606850021209\"\u003eRibarnica i posna hrana Pirana\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0m5lEdS4ct10__9YyKT2X-GjGptsj-qwdEQ9XICyXQrD1QyCbTudJ2mh4eXrWQ4tUhcSdKS92HchyB9308L602QFWo_yefjatjNpo44WAsChXQZi0kjR17ScJudSTyvTfT0Mf6Uk9n_6z7f7Sh-r_1gEdBh19oETf1RFcsXzP7gU-BG",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJ_4gDDLIhV0cRtnCX-AHMhHc",
+         "plus_code" : {
+            "compound_code" : "2W67+68 Kragujevac, Serbia",
+            "global_code" : "8GP22W67+68"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ_4gDDLIhV0cRtnCX-AHMhHc",
+         "scope" : "GOOGLE",
+         "types" : [
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Crvenog Barjaka 12, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0106987,
+               "lng" : 20.9134007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0120523302915,
+                  "lng" : 20.9146451302915
+               },
+               "southwest" : {
+                  "lat" : 44.0093543697085,
+                  "lng" : 20.9119471697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Posna Hrana",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJRZ3AuyEhV0cRfL2kfhVzTks",
+         "plus_code" : {
+            "compound_code" : "2W67+79 Kragujevac, Serbia",
+            "global_code" : "8GP22W67+79"
+         },
+         "rating" : 4.8,
+         "reference" : "ChIJRZ3AuyEhV0cRfL2kfhVzTks",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5,
+         "vicinity" : "Crvenog Barjaka 18, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0130186,
+               "lng" : 20.912108
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01431958029151,
+                  "lng" : 20.9135399802915
+               },
+               "southwest" : {
+                  "lat" : 44.01162161970851,
+                  "lng" : 20.9108420197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Gradsko udru\u017eenje penzionera Kragujevac- Dom penzionera",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110068276668827222194\"\u003eBora Jelic\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nvlvvKj9QVCp5XB2KtgIxFNLV2adE7AK6R2RINR_VsEmuW07bs814dAm2RqWeofYv4_d7H6bmLK9ZUkd_eIrCScXidN5cxXiNJtD0c5p05yukUP7QwHrs5ZdZUGyGbE09AyYd9hceWFBEyqJG4JL9nSYWJ19ag2Jns28sr8D33SNls",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJKS2mHm8hV0cR7XprNDMWdi4",
+         "plus_code" : {
+            "compound_code" : "2W76+6R Kragujevac, Serbia",
+            "global_code" : "8GP22W76+6R"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJKS2mHm8hV0cR7XprNDMWdi4",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "Kneza Milo\u0161a 4, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0115398,
+               "lng" : 20.9071504
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0128972302915,
+                  "lng" : 20.9085450802915
+               },
+               "southwest" : {
+                  "lat" : 44.0101992697085,
+                  "lng" : 20.9058471197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restoran brze hrane Vukas",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1411,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109326340585950609989\"\u003eAndrea Kovacevic\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lxsvmK_OOwLK6-PKHdKTbKG8ieX8nGyV7Bvfzf3UlbkUVxTmIqQHE2UwUKTXIRLiDJgfTKEJYHoWLFwhRmde217yZcqUkIBa3ONDjCb2uzkeNGxkvaHC1V77UqNoTY4qzg8V03X9cUuwNE7F_M0nbmdbcvTM5tw6LDjOanX0F1tDnG",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJK71B7SIhV0cRcoGF8l6SP-w",
+         "plus_code" : {
+            "compound_code" : "2W64+JV Kragujevac, Serbia",
+            "global_code" : "8GP22W64+JV"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJK71B7SIhV0cRcoGF8l6SP-w",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 620,
+         "vicinity" : "Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0123301,
+               "lng" : 20.9131875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01347828029149,
+                  "lng" : 20.9144089302915
+               },
+               "southwest" : {
+                  "lat" : 44.01078031970849,
+                  "lng" : 20.9117109697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Terminal 7 food&bar",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101483915134318371632\"\u003eDejan Petrovic\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0kpiw8-d02w5DPSj9zXoWpBQGW9EGHqBRrYDl-AdPVR5W3z5HDsulDzTKWzDyu9NxR6LrKhdHFNHiMX8amN6HSzfyH-7ZvG-UZ-vSm_tfCO78XnKt1Xlc237Cf2uzWkezrJnr1n4mS0Qu1rx6BQBxlEHzoUSPWhem85j9o4fiQjD86B",
+               "width" : 4624
+            }
+         ],
+         "place_id" : "ChIJ7Q2EZiEhV0cRwDpEMRCL5Eg",
+         "plus_code" : {
+            "compound_code" : "2W67+W7 Kragujevac, Serbia",
+            "global_code" : "8GP22W67+W7"
+         },
+         "price_level" : 2,
+         "rating" : 4.7,
+         "reference" : "ChIJ7Q2EZiEhV0cRwDpEMRCL5Eg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 287,
+         "vicinity" : "Branka Radi\u010devi\u0107a 7, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0135057,
+               "lng" : 20.9104061
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0147743302915,
+                  "lng" : 20.9116689302915
+               },
+               "southwest" : {
+                  "lat" : 44.0120763697085,
+                  "lng" : 20.9089709697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Senza Concorrenza",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 675,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116826036137581882919\"\u003eMasa Kapor\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0mzwJeHQ8FwSX3XPPzBEv0k9f32bfYPefFPvT6H_Cklk4gC-DU6YrKkPVULT6CXjd8dgj2PGjnHZqYasGIRD4M-nv6xaMGHTPhaOEcAtqT88qzJ6VmSLW6nvRwhlVs3eaRjewoblB5vCt36DlSYf8W76-s0ArvOb5dU8Z7zo5F8abtD",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ0XeL4rYhV0cRYrxEWSJZbU0",
+         "plus_code" : {
+            "compound_code" : "2W76+C5 Kragujevac, Serbia",
+            "global_code" : "8GP22W76+C5"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ0XeL4rYhV0cRYrxEWSJZbU0",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 21,
+         "vicinity" : "Kralja Aleksandra I Kara\u0111or\u0111evic\u0301a 90, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0134671,
+               "lng" : 20.9090691
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.01497698029151,
+                  "lng" : 20.9106037302915
+               },
+               "southwest" : {
+                  "lat" : 44.01227901970851,
+                  "lng" : 20.9079057697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Biftek",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114356842905537434112\"\u003eBiftek\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nZks0bQu36lDqR3Uro5jcqyAuV2UOHUBFxM2mCoFxu96DnLKD6a1kr-gjx7BI5ZOQ8lOC6W_7lWcloyCEutSoIbXYF7T7PvziEJL7C8FijO-E_y9fnjGBge2qHj72Z7C6LglTWmIk6iO4y97Hs6rQzyyS9xfcpbRxVFaa5XaJvQVMW",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJF7GgYf8hV0cRzAd3aXfJacA",
+         "plus_code" : {
+            "compound_code" : "2W75+9J Kragujevac, Serbia",
+            "global_code" : "8GP22W75+9J"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJF7GgYf8hV0cRzAd3aXfJacA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 126,
+         "vicinity" : "Kralja Aleksandra I Kara\u0111or\u0111evic\u0301a 57, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0136499,
+               "lng" : 20.9100002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0149438802915,
+                  "lng" : 20.9112902302915
+               },
+               "southwest" : {
+                  "lat" : 44.0122459197085,
+                  "lng" : 20.9085922697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Giromanija GIROS U GLAVNOJ ULICI",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 5120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110542568184756110939\"\u003eSava Jovovi\u0107\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nRdFw9shql-Jl_HUqUYa2ptt2ggW10KKNYBzc0AYZE3SeUz5qx8YFmHZTGThNQWJsZn65ZlClWEsidpYVnCyXAKv-XepMbGK3ZDp9SPv9BQfII3G_IZwQaqbsYzU3DEIM0oGf2LxUSkt3KH54dc7uKBW5R-243oGOBbQVu1W3LSXn8",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJdym-vyMhV0cRbaTXERWrbx8",
+         "plus_code" : {
+            "compound_code" : "2W76+F2 Kragujevac, Serbia",
+            "global_code" : "8GP22W76+F2"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJdym-vyMhV0cRbaTXERWrbx8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "Kralja Aleksandra I Kara\u0111or\u0111evic\u0301a 132, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0124527,
+               "lng" : 20.9134939
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0138757302915,
+                  "lng" : 20.9150942802915
+               },
+               "southwest" : {
+                  "lat" : 44.0111777697085,
+                  "lng" : 20.9123963197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Rolls Land",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107743503354631608926\"\u003eRolls Land\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0no6sEgiuwTcFviP_HhuloGOZpf51jYsS2IRQfhmsT1G1w5nZQ87k0Zf2xNNKXpVGpBoeBg9ImO0Bvq8HAra1iaIILZt62X8vwfRWOpITv-p_uP7Rwg6KFeBaO_VdUwU8p4mtcQg_gYsR964Lly_xamIn9kCN1inaWw5f5xckrTK9az",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ4QprPzghV0cRTpNKbSpN6sQ",
+         "plus_code" : {
+            "compound_code" : "2W67+X9 Kragujevac, Serbia",
+            "global_code" : "8GP22W67+X9"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJ4QprPzghV0cRTpNKbSpN6sQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 112,
+         "vicinity" : "Branka Radi\u010devi\u0107a 11, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0120799,
+               "lng" : 20.9069385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0134389802915,
+                  "lng" : 20.9083419802915
+               },
+               "southwest" : {
+                  "lat" : 44.0107410197085,
+                  "lng" : 20.90564401970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restoran Sunce",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107839844018913983710\"\u003eNikola Djordjevic\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0lmY_tZr4ksV-7ZcbqPb9cM8-HTiKpjmrm1eED3CTUVWb0HHVU7AdAQMYz9vdnrrclzayJqeHvMXDX1siQ0F53wgQCzPT67_riFc0hfw1m4I-aLUXQZr9Jf4sBfHj344u0Qznn1TFHJ_Wf-D5GPvXQilMfrUQLS9E0yqHD_Jy4HCJ9f",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJ51jJaiMhV0cR7Cb6NdJvbGE",
+         "plus_code" : {
+            "compound_code" : "2W64+RQ Kragujevac, Serbia",
+            "global_code" : "8GP22W64+RQ"
+         },
+         "rating" : 4,
+         "reference" : "ChIJ51jJaiMhV0cR7Cb6NdJvbGE",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 381,
+         "vicinity" : "Skerlic\u0301eva 32, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.01312589999999,
+               "lng" : 20.9128261
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0145303302915,
+                  "lng" : 20.9140974802915
+               },
+               "southwest" : {
+                  "lat" : 44.0118323697085,
+                  "lng" : 20.9113995197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Restoran MAGGI DI PASTA",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114246409710813161561\"\u003eRestoran MAGGI DI PASTA\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0ni5WOkOdcCfQLr-8Bom5sjKPVUoMv6kmAOXdczAXYoR_Q6gN1Q0JLpdXMVginvlQvQD5yYyY_AqzFa-ordAaH-39c36sgtBC8kVUTIitbdn9mAeXS03z-FzazGFpIxNsZ3fzlpP3C53pUAUpuU6QQxi1fAPsy1HxegwHx7MwMDJU5F",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ81b-NWQhV0cR9ZiM9Vxv-Gk",
+         "plus_code" : {
+            "compound_code" : "2W77+74 Kragujevac, Serbia",
+            "global_code" : "8GP22W77+74"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJ81b-NWQhV0cR9ZiM9Vxv-Gk",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 106,
+         "vicinity" : "Kneza Milo\u0161a 1a, Kragujevac"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.0124494,
+               "lng" : 20.9071092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0137745802915,
+                  "lng" : 20.9085200802915
+               },
+               "southwest" : {
+                  "lat" : 44.0110766197085,
+                  "lng" : 20.9058221197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Balkan House 2014",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 540,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106330133612932179567\"\u003eBalkan House 2014\u003c/a\u003e"
+               ],
+               "photo_reference" : "AZose0nT88bjgVutyt7IyIb1balwJCR5ZE5ixlqV2Ij1gUZhVJM9DqHFCDk2gm-wpkYVD5OqRQePxvgxf8EB7IQDquQ7mmh-Wm9SJV1fUuhB518YNH5cV23X3iO6KxTY-G-MFJB8yy3fkDmcELZcJgJZoxLal9cTz0WSsMOkHkkwCAGWBdlT",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJzZ6i-eQhV0cRinZv6JwAEWI",
+         "plus_code" : {
+            "compound_code" : "2W64+XR Kragujevac, Serbia",
+            "global_code" : "8GP22W64+XR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJzZ6i-eQhV0cRinZv6JwAEWI",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44,
+         "vicinity" : "Skerlic\u0301eva 28, Kragujevac"
+      }
+   ],
+   "status" : "OK"
+}
