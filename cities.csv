@@ -1,46 +1,418 @@
 City, Latitude, Longitude
 Belgrade, 44.7866, 20.4489
 Novi Sad, 45.2671, 19.8335
-Niš, 43.3194, 21.8963
-Kragujevac, 44.0128, 20.9114
+Niš, 43.3209, 21.8958
 Subotica, 46.1000, 19.6667
-Zrenjanin, 45.3800, 20.3819
-Pančevo, 44.8719, 20.6480
-Čačak, 43.8914, 20.3497
-Kraljevo, 43.7272, 20.6894
-Smederevo, 44.6640, 20.9270
-Valjevo, 44.2706, 19.8936
-Kruševac, 43.5811, 21.3358
-Užice, 43.8564, 19.8425
-Leskovac, 42.9975, 21.9447
-Vranje, 42.5547, 21.9000
-Šabac, 44.7474, 19.6896
-Požarevac, 44.6239, 21.1822
-Pirot, 43.1500, 22.5875
-Sombor, 45.7742, 19.1178
-Kragujevac, 44.0175, 20.9229
-Zaječar, 43.9017, 22.2736
-Prokuplje, 43.2344, 21.5956
-Ćuprija, 43.9214, 21.3714
-Vršac, 45.1178, 21.2975
-Loznica, 44.5322, 19.2275
-Zrenjanin, 45.3839, 20.3861
-Sremska Mitrovica, 44.9667, 19.6167
-Bor, 44.0719, 22.0958
-Trstenik, 43.6156, 21.0022
-Vrbas, 45.5719, 19.6467
-Jagodina, 43.9808, 21.2586
-Nova Pazova, 44.9690, 20.1596
-Bačka Palanka, 45.2500, 19.3833
-Knjaževac, 43.5733, 22.2522
-Smederevska Palanka, 44.3653, 20.9628
-Beočin, 45.1944, 19.7250
-Surčin, 44.7844, 20.2456
-Žabalj, 45.3697, 20.0739
-Obrenovac, 44.6550, 20.1989
-Negotin, 44.2206, 22.5303
-Aleksinac, 43.5369, 21.7050
-Gornji Milanovac, 44.0242, 20.4628
-Kikinda, 45.8303, 20.4614
-Senta, 45.9236, 20.0750
+Zlatibor, 43.7333, 19.7167
+Kopaonik, 43.2876, 20.8027
+Đerdap National Park, 44.7157, 22.4406
+Sremski Karlovci, 45.2039, 19.9322
+Kragujevac, 44.0128, 20.9267
+Tara National Park, 43.9890, 19.5808
+
+Tirana, 41.3275, 19.8187
+Berat, 40.7070, 19.9464
+Gjirokastër, 40.0758, 20.1494
+Sarandë, 39.8756, 20.0058
+Butrint, 39.7517, 20.0300
+Shkodër, 42.0685, 19.5149
+Krujë, 41.5090, 19.7923
+Theth, 42.3787, 19.7657
+Himara, 40.0942, 19.7434
+Valbona Valley National Park, 42.4333, 19.8011
+
+Vienna, 48.2082, 16.3738
+Salzburg, 47.8095, 13.0550
+Innsbruck, 47.2692, 11.4041
+Graz, 47.0707, 15.4395
+Hallstatt, 47.5622, 13.6493
+Zell am See, 47.3273, 12.7963
+Wachau Valley, 48.3554, 15.4118
+Melk, 48.2294, 15.3332
+Bad Gastein, 47.1196, 13.1325
+St. Anton am Arlberg, 47.1307, 10.2683
+
+Minsk, 53.9045, 27.5615
+Brest, 52.0976, 23.7341
+Mir Castle, 53.4482, 26.4694
+Nesvizh Castle, 53.2231, 26.6821
+Grodno, 53.6751, 23.8258
+Polotsk, 55.4866, 28.8026
+Vitebsk, 55.1904, 30.2049
+Hrodna, 53.6884, 23.8258
+Gomel, 52.4345, 30.9754
+Belovezhskaya Pushcha National Park, 52.6337, 23.8489
+
+Brussels, 50.8503, 4.3517
+Bruges, 51.2093, 3.2247
+Ghent, 51.0543, 3.7174
+Antwerp, 51.2194, 4.4025
+Brussels, 50.8503, 4.3517
+Dinant, 50.2607, 4.9120
+Waterloo, 50.7170, 4.3963
+Leuven, 50.8798, 4.7005
+Mechelen, 51.0259, 4.4775
+Ostend, 51.2154, 2.9286
+
+Sarajevo, 43.8563, 18.4131
+Mostar, 43.3438, 17.8078
+Banja Luka, 44.7758, 17.1852
+Blagaj, 43.2567, 17.8789
+Trebinje, 42.7086, 18.3441
+Jajce, 44.3423, 17.2657
+Konjic, 43.6516, 17.9562
+Visegrad, 43.7887, 19.2871
+Tuzla, 44.5376, 18.6659
+
+Sofia, 42.6977, 23.3219
+Plovdiv, 42.1354, 24.7453
+Varna, 43.2141, 27.9147
+Burgas, 42.5048, 27.4626
+Rila Monastery, 42.1349, 23.3392
+Bansko, 41.8396, 23.4880
+Veliko Tarnovo, 43.0757, 25.6172
+Nessebar, 42.6609, 27.7209
+Sunny Beach, 42.6952, 27.7106
+Sozopol, 42.4152, 27.6950
+
+Dubrovnik, 42.6507, 18.0944
+Split, 43.5081, 16.4402
+Zagreb, 45.8150, 15.9819
+Hvar, 43.1729, 16.4417
+Plitvice Lakes National Park, 44.8807, 15.6160
+Rovinj, 45.0805, 13.6405
+Zadar, 44.1194, 15.2322
+Trogir, 43.5162, 16.2504
+Korčula, 42.9614, 17.1360
+Šibenik, 43.7350, 15.8950
+
+Nicosia, 35.1856, 33.3823
+Limassol, 34.7071, 33.0226
+Paphos, 34.7720, 32.4293
+Ayia Napa, 34.9847, 34.0334
+Larnaca, 34.9150, 33.6239
+Famagusta, 35.1250, 33.9517
+Troodos Mountains, 34.9069, 32.8789
+Protaras, 35.0125, 34.0586
+Kyrenia, 35.3375, 33.3179
+Akamas Peninsula, 35.0360, 32.3364
+
+Prague, 50.0755, 14.4378
+Český Krumlov, 48.8129, 14.3175
+Karlovy Vary, 50.2329, 12.8710
+Brno, 49.1951, 16.6068
+Kutná Hora, 49.9513, 15.2687
+Olomouc, 49.5953, 17.2518
+Telč, 49.1834, 15.4552
+Pilsen, 49.7391, 13.3736
+Třebíč, 49.2140, 15.8813
+Hradec Králové, 50.2092, 15.8327
+
+Copenhagen, 55.6761, 12.5683
+Aarhus, 56.1629, 10.2039
+Odense, 55.3962, 10.3889
+Aalborg, 57.0488, 9.9217
+Roskilde, 55.6415, 12.0803
+Skagen, 57.7210, 10.5838
+Ribe, 55.3225, 8.7649
+Helsingør, 56.0360, 12.6139
+Bornholm, 55.1302, 14.9052
+Legoland Billund, 55.7254, 9.1065
+
+Tallinn, 59.4369, 24.7536
+Tartu, 58.3709, 26.7147
+Pärnu, 58.3859, 24.4968
+Saaremaa Island, 58.5367, 22.3549
+Lahemaa National Park, 59.5465, 25.9973
+Haapsalu, 58.9464, 23.5418
+Narva, 59.3772, 28.1900
+Otepää, 58.0587, 26.4965
+Hiiumaa Island, 58.8804, 22.7096
+Viljandi, 58.3639, 25.5907
+
+Helsinki, 60.1699, 24.9384
+Rovaniemi, 66.4970, 25.7244
+Turku, 60.4518, 22.2666
+Tampere, 61.4981, 23.7609
+Åland Islands, 60.1785, 19.9156
+Savonlinna, 61.8687, 28.8805
+Lapland, 67.9222, 26.5045
+Porvoo, 60.3929, 25.6646
+Oulu, 65.0121, 25.4651
+Lakeland region, 61.7746, 27.8825
+
+Paris, 48.8566, 2.3522
+Nice, 43.7102, 7.2620
+Marseille, 43.2965, 5.3698
+Lyon, 45.75, 4.85
+Cannes, 43.5528, 7.0174
+Bordeaux, 44.8378, -0.5792
+Strasbourg, 48.5734, 7.7521
+Mont Saint-Michel, 48.6361, -1.5115
+Avignon, 43.9483, 4.8089
+Chamonix-Mont-Blanc, 45.9237, 6.8694
+
+Berlin, 52.5200, 13.4050
+Munich, 48.1351, 11.5820
+Hamburg, 53.5511, 9.9937
+Frankfurt, 50.1109, 8.6821
+Cologne, 50.9375, 6.9603
+Dresden, 51.0504, 13.7373
+Heidelberg, 49.3988, 8.6724
+Nuremberg, 49.4521, 11.0767
+Rothenburg ob der Tauber, 49.3800, 10.1867
+Neuschwanstein Castle, 47.5576, 10.7498
+
+Athens, 37.9838, 23.7275
+Santorini, 36.3932, 25.4615
+Mykonos, 37.4467, 25.3289
+Crete, 35.2401, 24.8093
+Rhodes, 36.4346, 28.2176
+Delphi, 38.4826, 22.5017
+Thessaloniki, 40.6401, 22.9444
+Meteora, 39.7170, 21.6300
+Corfu, 39.6243, 19.9217
+Olympia, 37.6385, 21.6299
+
+Budapest, 47.4979, 19.0402
+Eger, 47.9025, 20.3778
+Szeged, 46.2530, 20.1414
+Pécs, 46.0727, 18.2323
+Szentendre, 47.6767, 19.0756
+Lake Balaton, 46.8290, 17.8620
+Debrecen, 47.5316, 21.6273
+Visegrád, 47.7799, 18.7447
+Hortobágy National Park, 47.5950, 21.1624
+Aggtelek National Park, 48.4592, 20.5145
+
+Reykjavik, 64.1466, -21.9426
+Thingvellir National Park, 64.2590, -21.1285
+Geysir, 64.3104, -20.3022
+Gullfoss, 64.3274, -20.1216
+Blue Lagoon, 63.8806, -22.4489
+
+Dublin, 53.3498, -6.2603
+Galway, 53.2707, -9.0568
+Killarney, 52.0597, -9.5044
+Cork, 51.8969, -8.4863
+Ring of Kerry, 51.9995, -9.6993
+Cliffs of Moher, 52.9719, -9.4265
+Giant's Causeway, 55.2408, -6.5116
+Dingle Peninsula, 52.1561, -10.0570
+Kilkenny, 52.6541, -7.2448
+Connemara, 53.4847, -9.9481
+
+Rome, 41.9028, 12.4964
+Florence, 43.7696, 11.2558
+Venice, 45.4408, 12.3155
+Milan, 45.4642, 9.1900
+Amalfi Coast, 40.6340, 14.6028
+Cinque Terre, 44.1289, 9.7126
+Siena, 43.3188, 11.3308
+Pisa, 43.7228, 10.4017
+Chianti, 43.4684, 11.2051
+Pompeii, 40.7460, 14.4989
+Capri, 40.5503, 14.2429
+Palermo, 38.1157, 13.3613
+Taormina, 37.8524, 15.2875
+Mount Etna, 37.7510, 14.9934
+
+Riga, 56.9496, 24.1052
+Jurmala, 56.9681, 23.7729
+Sigulda, 57.1549, 24.8566
+Cesis, 57.3104, 25.2651
+Liepaja, 56.5047, 21.0100
+Ventspils, 57.3899, 21.5606
+Kuldiga, 56.9684, 21.9604
+Gauja National Park, 57.1906, 24.7692
+Rundale Palace, 56.4182, 24.0200
+Kuldiga, 56.9684, 21.9604
+
+Vilnius, 54.6872, 25.2797
+Kaunas, 54.8985, 23.9036
+Klaipeda, 55.7108, 21.1316
+Palanga, 55.9201, 21.0718
+Trakai, 54.6411, 24.9335
+Curonian Spit, 55.4102, 21.0206
+Hill of Crosses, 56.0333, 23.2820
+Šiauliai, 55.9348, 23.3145
+Druskininkai, 54.0119, 23.9651
+Aukštaitija National Park, 55.2167, 26.3000
+
+Monte Carlo, 43.7384, 7.4246
+Prince's Palace of Monaco, 43.7314, 7.4208
+Casino de Monte-Carlo, 43.7395, 7.4276
+Larvotto Beach, 43.7497, 7.4395
+Oceanographic Museum, 43.7274, 7.4206
+Monaco Cathedral, 43.7308, 7.4212
+Exotic Garden of Monaco, 43.7321, 7.4227
+Port Hercules, 43.7370, 7.4238
+Japanese Garden, 43.7323, 7.4198
+Saint Nicholas Cathedral, 43.7383, 7.4226
+
+Kotor, 42.4247, 18.7712
+Budva, 42.2881, 18.8427
+Podgorica, 42.4304, 19.2594
+Perast, 42.4853, 18.7037
+Sveti Stefan, 42.2557, 18.8917
+Durmitor National Park, 43.1341, 19.0306
+Lovćen National Park, 42.3900, 18.8530
+Ulcinj, 41.9298, 19.2068
+Lake Skadar, 42.2691, 19.1652
+Ostrog Monastery, 42.8080, 19.0227
+
+Amsterdam, 52.3702, 4.8952
+Rotterdam, 51.9225, 4.47917
+The Hague, 52.0705, 4.3007
+Utrecht, 52.0907, 5.1214
+Maastricht, 50.8514, 5.6900
+Groningen, 53.2194, 6.5665
+Haarlem, 52.3874, 4.6462
+Delft, 52.0116, 4.3571
+Leiden, 52.1601, 4.4970
+Keukenhof Gardens, 52.2707, 4.5525
+
+Skopje, 42.0024, 21.4361
+Ohrid, 41.1172, 20.8016
+Bitola, 41.0314, 21.3347
+Mavrovo National Park, 41.6407, 20.7355
+Struga, 41.1778, 20.6770
+Kratovo, 42.0793, 22.1802
+Pelister National Park, 41.0347, 21.5497
+Prilep, 41.3464, 21.5541
+Dojran Lake, 41.2358, 22.7206
+Matka Canyon, 41.9470, 21.2566
+
+Oslo, 59.9139, 10.7522
+Bergen, 60.3913, 5.3221
+Tromsø, 69.6496, 18.9560
+Stavanger, 58.9699, 5.7331
+Trondheim, 63.4305, 10.3951
+Lofoten Islands, 68.1022, 13.3142
+Geirangerfjord, 62.1010, 7.2052
+Flam, 60.8639, 7.1141
+Svalbard, 78.2232, 15.6267
+Ålesund, 62.4722, 6.1495
+
+Warsaw, 52.2297, 21.0122
+Kraków, 50.0647, 19.9450
+Gdańsk, 54.3520, 18.6466
+Wrocław, 51.1079, 17.0385
+Zakopane, 49.2992, 19.9496
+Poznań, 52.4064, 16.9252
+Białowieża Forest, 52.6910, 23.8575
+Toruń, 53.0138, 18.5984
+Lublin, 51.2465, 22.5684
+Łódź, 51.7592, 19.4559
+
+Lisbon, 38.7223, -9.1393
+Porto, 41.1579, -8.6291
+Sintra, 38.8029, -9.3817
+Algarve, 37.0179, -7.9307
+Cascais, 38.6979, -9.4215
+Coimbra, 40.2115, -8.4293
+Fátima, 39.6336, -8.6795
+Madeira, 32.7607, -16.9595
+Douro Valley, 41.1616, -7.5220
+Évora, 38.5731, -7.9077
+
+Bucharest, 44.4268, 26.1025
+Brasov, 45.6579, 25.6012
+Cluj-Napoca, 46.7712, 23.6236
+Sibiu, 45.7970, 24.1525
+Sighisoara, 46.2190, 24.7967
+Timisoara, 45.7489, 21.2087
+Bran Castle, 45.5149, 25.3683
+Danube Delta, 45.0333, 29.0667
+Peles Castle, 45.3599, 25.5484
+Maramures region, 47.6573, 24.7100
+
+Moscow, 55.7558, 37.6176
+St. Petersburg, 59.9343, 30.3351
+Kazan, 55.8304, 49.0661
+Sochi, 43.5855, 39.7231
+Yekaterinburg, 56.8389, 60.6057
+Novgorod, 58.5214, 31.2758
+Vladivostok, 43.1155, 131.8854
+Golden Ring, 56.3333, 39.3333
+Baikal Lake, 53.5461, 108.1858
+Kamchatka Peninsula, 56.1320, 160.4575
+
+Bratislava, 17.1077, 48.1486
+High Tatras, 20.0667, 49.1500
+Košice, 21.2385, 48.7156
+Spiš Castle, 20.7460, 48.9937
+Banská Štiavnica, 18.8922, 48.4542
+Slovak Paradise National Park, 20.3525, 48.9010
+Trenčín, 18.0408, 48.8945
+Orava Castle, 19.3632, 49.2780
+Bojnice Castle, 18.5904, 48.7794
+Červený Kameň Castle, 17.2933, 48.4106
+
+Ljubljana, 14.5058, 46.0569
+Lake Bled, 14.0855, 46.3636
+Piran, 13.5687, 45.5280
+Postojna Cave, 14.2040, 45.7805
+Triglav National Park, 13.8499, 46.2839
+Maribor, 15.6466, 46.5547
+Ptuj, 15.8700, 46.4197
+Škocjan Caves, 13.9864, 45.6603
+Soča Valley, 13.7372, 46.2694
+Vintgar Gorge, 14.0917, 46.3764
+
+Barcelona, 2.1734, 41.3851
+Madrid, -3.7033, 40.4168
+Seville, -5.9940, 37.3891
+Valencia, -0.3763, 39.4699
+Granada, -3.5916, 37.1773
+Ibiza, 1.4442, 38.9067
+Mallorca, 2.6502, 39.6953
+Canary Islands, -15.5734, 28.2916
+Santiago de Compostela, -8.5449, 42.8782
+Costa del Sol, -4.7796, 36.5103
+
+Stockholm, 18.0649, 59.3293
+Gothenburg, 11.9746, 57.7089
+Malmö, 13.0007, 55.6049
+Uppsala, 17.6389, 59.8586
+Kiruna, 20.2256, 67.8557
+Visby, 18.2981, 57.6360
+Gotland Island, 18.4982, 57.6415
+Abisko National Park, 19.0790, 68.3597
+Luleå, 22.1567, 65.5848
+Gotland, 18.4982, 57.6415
+
+Zurich, 8.5417, 47.3769
+Geneva, 6.1432, 46.2044
+Lucerne, 8.3082, 47.0502
+Bern, 7.4474, 46.9480
+Interlaken, 7.8691, 46.6864
+Zermatt, 7.7461, 46.0207
+Lausanne, 6.6300, 46.5197
+Basel, 7.5886, 47.5596
+Lugano, 8.9533, 46.0037
+Grindelwald, 8.0350, 46.6244
+
+Kyiv, 30.5234, 50.4501
+Lviv, 24.0297, 49.8397
+Odessa, 30.7233, 46.4825
+Kharkiv, 36.2314, 49.9935
+Chernobyl Exclusion Zone, 30.0566, 51.2763
+Yalta, 34.8697, 44.4950
+Kamyanets-Podilsky, 26.5824, 48.6843
+Carpathian Mountains, 24.1476, 48.3794
+Kamianets-Podilskyi Castle, 26.5638, 48.6774
+Sofiyivsky Park, 30.8040, 48.5142
+
+London, -0.1276, 51.5074
+Edinburgh, -3.1883, 55.9533
+Cardiff, -3.1791, 51.4816
+Belfast, -5.9301, 54.5973
+Bath, -2.3590, 51.3758
+Oxford, -1.2577, 51.7520
+York, -1.0827, 53.9590
+Cambridge, 0.1198, 52.2053
+Stonehenge, -1.8262, 51.1789
+Giant's Causeway, -6.5176, 55.2406
+
 
